@@ -112,8 +112,10 @@ python figures/generate_figures.py
 
 相关文件：
 
-- [`LaTeX 源文件`](./paper/main.tex)
-- [`HTML 论文版本`](./paper/main.html)
+- [`LaTeX 源文件`](./docs/paper/main.tex)
+- [`HTML 介绍页面`](./docs/index.html)
+- [`HTML 论文版本`](./docs/paper/main.html)
+
 
 ## 引用方式
 
