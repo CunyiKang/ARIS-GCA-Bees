@@ -5,7 +5,7 @@
 
 # ARIS-GCA-Bees
 
-A computational neuroethology project on **functional self-awareness in bees**, developed through an ARIS-style automated research pipeline.
+A computational neuroethology project on **functional self-awareness in bees**, developed through an [ARIS](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) automated research pipeline.
 
 ## Overview
 
