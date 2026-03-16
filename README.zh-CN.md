@@ -114,9 +114,9 @@ python figures/generate_figures.py
 
 相关文件：
 
-- [`HTML 介绍页面`](./docs/index.html)
-- [`HTML 中文`](./docs/paper/zh/main.html)
-- [`HTML 英文`](./docs/paper/en/main.html)
+- [`HTML 介绍页面`](https://cunyikang.github.io/ARIS-GCA-Bees/)
+- [`HTML 中文论文`](https://cunyikang.github.io/ARIS-GCA-Bees/paper/zh/main.html)
+- [`HTML 英文论文`](https://cunyikang.github.io/ARIS-GCA-Bees/paper/en/main.html)
 
 
 ## 引用方式
