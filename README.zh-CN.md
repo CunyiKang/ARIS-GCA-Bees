@@ -65,9 +65,11 @@ ARIS-GCA-Bees/
 
 建议先阅读：
 
-- [`研究流程报告`](./process/RESEARCH_PIPELINE_REPORT.md)
-- [`论文源码`](./paper/main.tex)
-- [`HTML 论文版本`](./paper/main.html)
+- [`ARIS项目`](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) 
+- [`想法构建`](./process/IDEA_REPORT.md)
+- [`自动审阅`](./process/AUTO_REVIEW.md)
+- [`写作框架`](./process/PAPER_PLAN.md)
+- [`研究流程`](./process/RESEARCH_PIPELINE_REPORT.md)
 
 ### 2. 运行主模拟
 
@@ -114,7 +116,8 @@ python figures/generate_figures.py
 
 - [`LaTeX 源文件`](./docs/paper/main.tex)
 - [`HTML 介绍页面`](./docs/index.html)
-- [`HTML 论文版本`](./docs/paper/main.html)
+- [`HTML 中文`](./docs/paper/zh/main.html)
+- [`HTML 英文`](./docs/paper/en/main.html)
 
 
 ## 引用方式
