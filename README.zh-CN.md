@@ -5,7 +5,7 @@
 
 # ARIS-GCA-Bees
 
-一个关于**蜜蜂功能性自我意识**的计算神经行为学项目，通过 ARIS 风格的自动化研究流程生成。
+一个关于**蜜蜂功能性自我意识**的计算神经行为学项目，通过 [ARIS](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) 的自动化研究流程生成。
 
 ## 项目简介
 
