@@ -9,7 +9,7 @@ A computational neuroethology project on **functional self-awareness in bees**, 
 
 ## Overview
 
-This repository contains the code, figures, results, process logs, and manuscript materials for a theory-driven computational project proposing a **unified predictive coding account of functional self-awareness in bees**.
+This repository contains the code, figures, results, process logs, and manuscript materials for a theory-driven computational project proposing a **unified predictive coding account of functional self-awareness in bees**(see final [pdf](https://cunyikang.github.io/ARIS-GCA-Bees/) here, including English and Chinese version). 
 
 The core claim is that a single latent parameter — **precision** in a predictive coding architecture instantiated in the **central complex (CX)** — can jointly explain four behavioral domains:
 
